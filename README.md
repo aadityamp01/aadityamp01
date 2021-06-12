@@ -8,7 +8,7 @@
 <!-- [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=aadityamp01.profileviews-badge)](https://github.com/aadityamp01) -->
 <br>
 
-<a> <img align="right" height="300" width="300" alt="GIF" src="http://38.media.tumblr.com/f0f2514e14fcafeef53453070ddbf5eb/tumblr_neo0zp9PWA1shpedgo1_500.gif" /> </a>
+<a href="https://github.com/aadityamp01/Flappy-Bird-Game" target="_blank"> <img align="right" height="300" width="300" alt="GIF" src="http://www.pcbheaven.com/opendir/images/thumbs/od_2858_1_1409410418.gif" /> </a>
 
 <!--
 **aadityamp01/aadityamp01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
