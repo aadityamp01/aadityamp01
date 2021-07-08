@@ -17,11 +17,11 @@ Here are some ideas to get you started: -->
 
 - 🎓 I'm in the 2<sup>nd</sup> year of **B.Tech Computer Engineering**.
 - 🔭 I’m currently working on my **Android Projects**
-- 🧠 I am currently learning **Data structures and algorithms, && Mobile apps with [KMM](https://kotlinlang.org/lp/mobile/)**
+- 🧠 I am currently learning **Data structures and algorithms, && Mobile apps with [Kotlin](https://kotlinlang.org/docs/android-overview.html)**
 - 👯 I’m looking to collaborate on **Anything related to Android and Open Source**
 - 💬 Ask me about **Android Dev, Web Tech && Books + Movies😉**
-- 📫 How to reach me: **aadityamp01@gmail.com**
-- 🎯 I’m focusing on **Tech Developement**
+- 📫 How to reach me: **ampicopn@gmail.com**
+- 🎯 I’m focusing on **Tech Advancement**
 <!-- - 😄 Pronouns: ...
 - ⚡ Fun fact:  -->
 
