@@ -43,20 +43,19 @@ Here are some ideas to get you started: -->
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="kotlin" widht="40" height="40" /></p>
 
 
-<!-- 
 ### :zap: GitHub Stats
-
+<!-- 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aadityamp01&count_private=true&hide_border=false&show_icons=true" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadityamp01&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br>
-
+-->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadityamp01&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
-
+<!--
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadityamp01&theme=dracula" /></p>
 
  -->
  
-### :zap: Most used languages ❤️  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;   ⚡ GitHub Stats
+### :zap: Most used languages ❤️ 
 
 <img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=aadityamp01&layout=compact&hide=html&theme=highcontrast">
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
@@ -65,7 +64,6 @@ Here are some ideas to get you started: -->
 </a> -->
 
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aadityamp01&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
 
 <br><br><br><br><br><br><br>
 
