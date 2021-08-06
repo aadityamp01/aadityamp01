@@ -1,5 +1,5 @@
 ### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  I'm Aaditya 😎
-#### A Geek in Tech
+#### A Curious Learner
 
 [![Hello, Coder; Welcome!!](https://img.shields.io/badge/Hello,Coder!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/aadityamp01/aadityamp01/) 
 [![Repos Badge](https://badges.pufler.dev/repos/aadityamp01)](https://github.com/aadityamp01?tab=repositories)
