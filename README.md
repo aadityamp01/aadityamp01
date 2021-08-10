@@ -16,7 +16,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🎓 I'm in the 2<sup>nd</sup> year of **B.Tech Computer Engineering**.
+- 🎓 I'm in the 3<sup>rd</sup> year of **B.E Computer Engineering**.
 - 🔭 I’m currently working on my **Android Projects**
 - 🧠 I am currently learning **Data structures and algorithms, && Mobile apps with [Kotlin](https://kotlinlang.org/docs/android-overview.html)**
 - 👯 I’m looking to collaborate on **Anything related to Android and Open Source**
