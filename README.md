@@ -4,7 +4,6 @@
 [![Hello, Coder; Welcome!!](https://img.shields.io/badge/Hello,Coder!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/aadityamp01/aadityamp01/) 
 [![Repos Badge](https://badges.pufler.dev/repos/aadityamp01)](https://github.com/aadityamp01?tab=repositories)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aadityamp01/Android-Apps)
-[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/aadityampaithane/)
 <a> <img src="https://komarev.com/ghpvc/?username=aadityamp01&label=Profile%20views&color=00ff00&style=flat-circle" alt="aadityamp01" /> </a>
 <!-- [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=aadityamp01.profileviews-badge)](https://github.com/aadityamp01) -->
 <br>
