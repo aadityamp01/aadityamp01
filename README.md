@@ -44,7 +44,7 @@ Here are some ideas to get you started: -->
 
 
 ### :zap: GitHub Stats
-<!-- 
+<!--
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aadityamp01&count_private=true&hide_border=false&show_icons=true" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadityamp01&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br>
@@ -70,11 +70,16 @@ Here are some ideas to get you started: -->
 ### :zap: Know More!! 
 
 <a href="https://www.linkedin.com/in/aadityampaithane/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://twitter.com/Aadityamp">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
 <a href="https://open.spotify.com/playlist/7tvThBtqgpVHeUX0oSerH9?si=16OYbBKkQDWsWPA0fpRGOA">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+
+<a href="https://aadityapaithane.medium.com/">
+  <img align="left" alt="Medium" width="80px" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB_300x80.svg" />
 </a>
