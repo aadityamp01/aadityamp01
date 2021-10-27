@@ -40,7 +40,7 @@ Here are some ideas to get you started: -->
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="figma" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="kotlin" widht="40" height="40" /></p><br>
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="kotlin" widht="40" height="40" /></p><hr>
 
 
 ### :zap: GitHub Stats
@@ -54,7 +54,6 @@ Here are some ideas to get you started: -->
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aadityamp01&theme=dracula" /></p>
 
  -->
-<br>
 
 ### :zap: Most used languages ❤️ 
 
@@ -66,7 +65,7 @@ Here are some ideas to get you started: -->
 
 
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><hr>
 
 ### :zap: Know More!! 
 
