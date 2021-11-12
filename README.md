@@ -8,7 +8,7 @@
 <!-- [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=aadityamp01.profileviews-badge)](https://github.com/aadityamp01) -->
 <br>
 
-<a href="https://github.com/aadityamp01/Flappy-Bird-Game" target="_blank"> <img align="right" height="300" width="300" alt="GIF" src="http://www.pcbheaven.com/opendir/images/thumbs/od_2858_1_1409410418.gif" /> </a>
+<a href="https://github.com/aadityamp01/Flappy-Bird-Game" target="_blank"> <img align="right" height="300" width="300" alt="GIF" src="https://media1.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b76118dfe16b32d538ed5f875c1b2b810081da4aa0e63&rid=giphy.gif&ct=g" /> </a>
 
 <!--
 **aadityamp01/aadityamp01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
