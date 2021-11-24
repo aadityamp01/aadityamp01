@@ -5,7 +5,6 @@
 [![Repos Badge](https://badges.pufler.dev/repos/aadityamp01)](https://github.com/aadityamp01?tab=repositories)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aadityamp01/Android-Apps)
 <a> <img src="https://komarev.com/ghpvc/?username=aadityamp01&label=Profile%20views&color=00ff00&style=flat-circle" alt="aadityamp01" /> </a>
-<!-- [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=aadityamp01.profileviews-badge)](https://github.com/aadityamp01) -->
 <br>
 
 <a href="https://github.com/aadityamp01/Flappy-Bird-Game" target="_blank"> <img align="right" height="300" width="300" alt="GIF" src="https://media1.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif?cid=790b76118dfe16b32d538ed5f875c1b2b810081da4aa0e63&rid=giphy.gif&ct=g" /> </a>
