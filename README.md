@@ -67,9 +67,9 @@ Here are some ideas to get you started: -->
   <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
-<a href="https://open.spotify.com/playlist/7tvThBtqgpVHeUX0oSerH9?si=16OYbBKkQDWsWPA0fpRGOA">
+<!-- <a href="https://open.spotify.com/playlist/7tvThBtqgpVHeUX0oSerH9?si=16OYbBKkQDWsWPA0fpRGOA">
   <img align="left" alt="Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+</a> -->
 
 <a href="https://aadityapaithane.medium.com/">
   <img align="left" alt="Medium" width="80px" src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB_300x80.svg" />
