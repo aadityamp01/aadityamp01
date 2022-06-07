@@ -1,4 +1,4 @@
-### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,  I'm Aaditya 😎
+### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">,  I'm Aaditya 😎
 #### A Curious Learner
 
 [![Hello, Coder; Welcome!!](https://img.shields.io/badge/Hello,Coder!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/aadityamp01/aadityamp01/) 
