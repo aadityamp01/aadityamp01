@@ -18,7 +18,7 @@ Here are some ideas to get you started: -->
 - 🔭 I’m currently working on my **Android Projects**
 - 🧠 I am currently learning **Data structures and algorithms, && Mobile apps with [Kotlin](https://kotlinlang.org/docs/android-overview.html)**
 - 👯 I’m looking to collaborate on **Anything related to Android and Open Source**
-- 💬 Ask me about **Android Dev, Web Tech and Books + Movies😉**
+- 💬 Ask me about **Android Dev, Web Tech and Books + Netflix😉**
 - 📫 How to reach me: **ampicopn@gmail.com**
 - 🎯 I’m focusing on **Tech Advancement**
 <!-- - 😄 Pronouns: ...
