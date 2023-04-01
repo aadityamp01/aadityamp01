@@ -2,7 +2,6 @@
 #### A Curious Learner
 
 [![Hello, Coder; Welcome!!](https://img.shields.io/badge/Hello,Coder!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/aadityamp01/aadityamp01/) 
-[![Repos Badge](https://badges.pufler.dev/repos/aadityamp01)](https://github.com/aadityamp01?tab=repositories)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aadityamp01/Android-Apps)
 <a> <img src="https://komarev.com/ghpvc/?username=aadityamp01&label=Profile%20views&color=00ff00&style=flat-circle" alt="aadityamp01" /> </a>
 <br>
