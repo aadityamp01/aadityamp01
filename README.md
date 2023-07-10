@@ -49,21 +49,26 @@ Here are some ideas to get you started: -->
 -->
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadityamp01&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
 
-
+<!--
 ### :zap: Most used languages ❤️ 
 
 <img align="left" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=aadityamp01&layout=compact&hide=html&theme=highcontrast">
 
 
 <br><br><br><br><br><br><br><br><hr>
+-->
 
 ### :zap: Know More!! 
 
+
+<a href="mailto:ampicopn@gmail.com?hl=en">
+  <img align="left" alt="Gmail" src="https://img.shields.io/badge/gmail-%23DC493C.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/aadityampaithane/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIN" src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/Aadityamp">
-  <img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Twitter"  src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 
 <!-- <a href="https://open.spotify.com/playlist/7tvThBtqgpVHeUX0oSerH9?si=16OYbBKkQDWsWPA0fpRGOA">
