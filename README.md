@@ -13,7 +13,7 @@
 
 Here are some ideas to get you started: -->
 
-- 🎓 I'm a Computer Science undergrad from MM College of Engineering, Pune
+- 🎓 I'm a Computer Science graduate from MM College of Engineering, Pune
 - 🔭 I’m a Android Developer, currently working on my **Android Projects**
 - 🧠 I am currently learning **Data structures and algorithms, && Mobile apps with [Flutter](https://docs.flutter.dev/get-started/flutter-for/android-devs), [Jetpack Compose](https://developer.android.com/jetpack/compose/tutorial)**
 - 👯 I’m looking to collaborate on **Anything related to Android and Open Source**
