@@ -14,9 +14,8 @@
 Here are some ideas to get you started: -->
 
 - 🎓 I'm a Computer Science graduate from MM College of Engineering, Pune
-- 🔭 I’m a Android Developer, currently working on my **Android Projects**
-- 🧠 I am currently learning **Data structures and algorithms, && Mobile apps with [Flutter](https://docs.flutter.dev/get-started/flutter-for/android-devs), [Jetpack Compose](https://developer.android.com/jetpack/compose/tutorial)**
-- 👯 I’m looking to collaborate on **Anything related to Android and Open Source**
+- 🔭 I’m a Full Stack Developer, currently working on my **[Web](https://learn.microsoft.com/en-us/visualstudio/javascript/tutorial-asp-net-core-with-react?view=vs-2022) + [Android](https://docs.flutter.dev/get-started/flutter-for/android-devs) Projects**
+- 👯 I’m looking to collaborate on **Anything related to Open Source**
 - 💬 Ask me about **Android Dev, Web Tech and Books + Netflix😉**
 - 📫 How to reach me: **ampicopn@gmail.com**
 - 🎯 I’m focusing on **Tech Advancement**
