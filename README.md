@@ -16,6 +16,8 @@ Here are some ideas to get you started: -->
 - 🎓 I'm a Computer Science graduate from MM College of Engineering, Pune
 - 🔭 I’m a Full Stack Developer, currently working on my **[Web](https://learn.microsoft.com/en-us/visualstudio/javascript/tutorial-asp-net-core-with-react?view=vs-2022) + [Android](https://docs.flutter.dev/get-started/flutter-for/android-devs) Projects**
 - 👯 I’m looking to collaborate on **Anything related to Open Source**
+- 🥇 I was member of G-Developer Student Club.
+- 🥇 I was member of CSI Student Chaper, Pune.
 - 💬 Ask me about **Android Dev, Web Tech and Books + Netflix😉**
 - 📫 How to reach me: **ampicopn@gmail.com**
 - 🎯 I’m focusing on **Tech Advancement**
