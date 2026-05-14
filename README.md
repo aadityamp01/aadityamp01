@@ -18,7 +18,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on **Anything related to Open Source**
 - 🥇 I was member of G-Developer Student Club.
 - 🥇 I was member of CSI Student Chaper, Pune.
-- 💬 Ask me about **Android Dev, Web Tech and Books + Netflix😉**
+- 💬 Ask me about **Web Tech, Android Dev and Books + Cricket😉**
 - 📫 How to reach me: **ampicopn@gmail.com**
 - 🎯 I’m focusing on **Tech Advancement**
 <!-- - 😄 Pronouns: ...
@@ -42,13 +42,14 @@ Here are some ideas to get you started: -->
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kotlin.svg" alt="kotlin" widht="40" height="40" /></p><hr>
 -->
 
-### :zap: GitHub Stats
+
 <!--
+### :zap: GitHub Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aadityamp01&count_private=true&hide_border=false&show_icons=true" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadityamp01&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br>
 -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadityamp01&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br>
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aadityamp01&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br> -->
 
 <!--
 ### :zap: Most used languages ❤️ 
